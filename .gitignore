@@ -1,0 +1,15 @@
+__pycache__
+.env
+.history
+.hypothesis/
+build/
+reports/
+# Truffle
+build
+
+# Node
+node_modules
+package-lock.json
+
+# Mac specific
+.DS_Store
